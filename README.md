@@ -81,9 +81,7 @@ The system architecture prioritizes:
 ---
 
 ## 📸 Interface Preview
-![Landing](./screenshots/landing.png)
-![Dashboard](./screenshots/dashboard.png)
-![Login](./screenshots/login.png)
+
 
 ---
 
