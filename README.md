@@ -1,6 +1,6 @@
-# zeta-ai-public-overview
+# ztudio-public-overview
 Scalable AI-powered SaaS platform with multi-user architecture, credit-based usage control, and business automation workflows.
-# Zeta AI – AI-Powered SaaS Platform
+# Ztudio – AI-Powered SaaS Platform
 
 Production-ready AI SaaS platform designed for stock management, e-commerce operations, and automated social media workflows.
 
@@ -12,7 +12,7 @@ Production-ready AI SaaS platform designed for stock management, e-commerce oper
 
 ## 🚀 Overview
 
-Zeta AI is a scalable multi-user SaaS platform currently running in production.  
+Ztudio is a scalable multi-user SaaS platform currently running in production.  
 It integrates authentication systems, credit-based usage control, AI APIs, and automation workflows to support business operations.
 
 The platform is designed with cost-efficiency, scalability, and production stability as core principles.
@@ -70,7 +70,7 @@ This model enables controlled scalability while maintaining operational efficien
 
 ## 📊 Production Context
 
-Zeta AI is deployed in a live environment and actively maintained.  
+Ztudio is deployed in a live environment and actively maintained.  
 The system architecture prioritizes:
 
 - Stability under multi-user load  
